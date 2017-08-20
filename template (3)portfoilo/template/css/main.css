@@ -157,7 +157,7 @@ color: blue;
 
 
 
-.project>img{
+.project>a img{
   border-radius: 0;
   MARGIN: 45px 75px;
   HEIGHT: 248px;
